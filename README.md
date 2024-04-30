@@ -1,7 +1,7 @@
 # Project-4-Docker
 
-# Tools : Docker and Python
-# Step by step to migrate data using Docker and Python: :
+## Tools : Docker and Python
+## Step by step to migrate data using Docker and Python: :
 
 # Step 1: Open and Start Docker Make sure Docker is installed on your computer and start Docker Desktop.
 # Step 2: Create docker-compose.yml Create the docker-compose.yml file and declare the services for MySQL and Postgres.
